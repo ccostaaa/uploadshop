@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["tweakkando","zeki's tweak is the best"];
+const statusMessages = ["upload shop","best shop"];
 
 
 let currentIndex = 0;
